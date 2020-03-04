@@ -7,7 +7,7 @@ Credit:
       Python3 Code(pySerial Part) 	- Me 
       Python3 Code(Flask Part)  	- Teammate A 
       Pi system setting up 		- Me
-      run.sh 				- Me
+      run.sh 			- Me
 
 Eating popcorn & do nothing - Teammate B, C, D
 HTML not included in this github, because it's not by me.
